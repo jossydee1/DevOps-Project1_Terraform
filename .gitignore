@@ -1,0 +1,6 @@
+Meme-App/.terraform.lock.hcl
+Meme-App/.terraform.lock.hcl_bkp
+Meme-App/.terraform/*
+Meme-App/.terraform_bkp/*
+modules/key/*
+.DS_Store/*
