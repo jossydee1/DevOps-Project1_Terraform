@@ -3,7 +3,7 @@
 This repository contains the terraform file code, which we can use to provision the **Amazon EKS** cluster as part of Project 4 of our **10WeeksofCloudOps** series! In this comprehensive hands-on project, we dive deep into the world of **GitOps and ArgoCD**, demonstrating how to implement these essential DevOps practices step by step by **dockerizing** the application and provisioning the infrastructure using **Terraform**(this repo).
 
 ## 💪Complete Hands-on video tutorial for this project. Click here 👇
-[![GitOps , ArgoCD, Terraform](https://i9.ytimg.com/vi_webp/LgBnbmfsIdA/mqdefault.webp?v=65001550&sqp=CMyFgqgG&rs=AOn4CLB-7wLlJjUqu2q7dOdDMdQRyQ46TA)](https://youtu.be/LgBnbmfsIdA "GitOps|ArgoCD|Terraform")
+[![GitOps , ArgoCD, Terraform](https:)](https://youtu.be/ "GitOps|ArgoCD|Terraform")
 
 ## Architecture Diagram
 
@@ -15,7 +15,7 @@ Follow the below steps to Install the Terraform and another dependency.
 
 1️⃣ Clone the repo
 
-``` git clone https://github.com/piyushsachdeva/10weeksofcloudops-week4-tf.git ```
+``` git clone https://github.com/jossydee1/DevOps-Project1_Terraform.git ```
 
 2️⃣ Let's install dependency to deploy the application
 
