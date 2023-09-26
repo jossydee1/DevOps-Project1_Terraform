@@ -7,7 +7,7 @@ This repository contains the terraform file code, which we can use to provision 
 
 ## Architecture Diagram
 
-![Architecture Diagram](https://cdn-images-1.medium.com/max/800/1*T5IRoSoiqT8qnYLUprsRUQ.png)
+![Architecture Diagram](https://images2.imgbox.com/47/7d/kjhY0Myn_o.png?download=true)
 
 
 ## Installation of Terraform
